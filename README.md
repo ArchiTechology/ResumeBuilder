@@ -1,1 +1,1 @@
-# Genrate Resume
+# Generate Resume
